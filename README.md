@@ -1,2 +1,2 @@
 # StockMarketAnalyzer
- 
+ Initial Commit
